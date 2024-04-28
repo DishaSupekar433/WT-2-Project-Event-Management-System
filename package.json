@@ -1,0 +1,6 @@
+{
+  "start": "react-scripts start",
+  "dependencies": {
+    "@material-ui/core": "^4.12.4"
+  }
+}

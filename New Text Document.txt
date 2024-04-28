@@ -1,0 +1,21 @@
+To Run:
+
+1st Terminal -> cd api, npm start
+2nd Terminal -> cd client, npm start
+3rd Terminal -> cd admin, npm start
+
+Functionalities:
+register
+sign in as admin or user
+view each popular halls individually
+can pretend to book them by selecting slot
+view featured locations through slider on home page
+click on navbar's title and go on home page instantly
+click on featured location and see all the halls in their
+search with city, event type, date and no. of people
+click on images and view them widely
+read description of all events
+admin is able to see list of registered users and their details and can even delete them
+admin can also see all the slots and contact details
+admin is able to add new slots and delete them
+invoice
